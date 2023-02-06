@@ -20,7 +20,7 @@ Checkpoint：链接：https://pan.baidu.com/s/1CQHVCr6s7mXP6jaVotb1Ug  提取码
 
 训练结果如下：
 
-| backbone  | Accuracy_top-1 |
+| Model  | Accuracy_top-1 |
 | :-------: | :------------: |
 | ResNet-50 |    95.9790     |
 
@@ -42,7 +42,7 @@ Checkpoint：链接：https://pan.baidu.com/s/1XWX5s5F9Nra5XCQJbWcl0g  提取码
 
 训练结果如下：
 
-|  backbone  | Accuracy_top-1 | Accuracy_top-5 |
+|  Model  | Accuracy_top-1 | Accuracy_top-5 |
 | :--------: | :------------: | :------------: |
 | ResNet-101 |    88.5700     |    99.4500     |
 
